@@ -1,0 +1,30 @@
+www.hiwebgl.com
+www.lao3d.com
+
+three.js
+oak3d
+phlioGL
+
+www.learningWEBGL.COM
+
+导致问题的硬件列表
+https://www.khronos.org/webgl/wiki/BlacklistsAndWhiteLISTS
+
+帮助网站
+https://sites.google.com/site/webglbook
+
+出版社
+http://www.informit.com/title/9780321902924
+
+google webgl例子
+code.google.com/p/webglsamples
+
+1.0对应OpenGL ES 2.0
+https://www.khronos.org/registry/webgl/specs/1.0/
+
+2.0对应OpenGL ES 3.0
+https://www.khronos.org/registry/webgl/specs/latest/
+
+绘图板程序
+http://caimansys.com/painter
+canvas_painter_v0.11.zip
